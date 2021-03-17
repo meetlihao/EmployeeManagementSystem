@@ -1,0 +1,3 @@
+﻿  workManager.cpp
+D:\code\project\EmployeeManagementSystem\EmployeeManagementSystem\workManager.cpp(196,22): warning C4018: “<”: 有符号/无符号不匹配
+  EmployeeManagementSystem.vcxproj -> D:\code\project\EmployeeManagementSystem\EmployeeManagementSystem\Debug\EmployeeManagementSystem.exe

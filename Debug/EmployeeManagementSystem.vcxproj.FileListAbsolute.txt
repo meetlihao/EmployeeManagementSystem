@@ -1,0 +1,2 @@
+D:\code\project\EmployeeManagementSystem\EmployeeManagementSystem\Debug\EmployeeManagementSystem.exe
+D:\code\project\EmployeeManagementSystem\EmployeeManagementSystem\Debug\EmployeeManagementSystem.pdb
